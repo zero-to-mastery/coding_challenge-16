@@ -5,7 +5,7 @@ This coding challenge is all about **design and building a portfolio project to 
 Please Use the **#coding-challenge** channel on Discord to discuss and share your work. At the end of the challenge, I will compile everyone's submitted websites on here.
 
 ## Prizes!
-This challenge is kindly sponsored by Creative Tim (https://www.creative-tim.com/)! The top 3 entries of this challenge who will be selected by Creative Tim staff and myself will **each win the Big Bundle (https://www.creative-tim.com/product/buy/bundle/big-bundle) which has a $3,341 value each**. Winners will be announced a few weeks after the coding challenge ends.
+This challenge is kindly sponsored by [Creative Tim](https://www.creative-tim.com/)! The top 3 entries of this challenge who will be selected by Creative Tim staff and myself will **each win the [Big Bundle](https://www.creative-tim.com/product/buy/bundle/big-bundle) which has a $3,341 value each**. Winners will be announced a few weeks after the coding challenge ends.
 
 ## What is the Challenge?
 Build a beautiful website (it could be your portfolio, or any type of a project you can think of) that is single page. However, you will have to build it using modern design techniques. What does that mean? Well, you need to follow these 3 resources:
