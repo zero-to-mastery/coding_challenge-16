@@ -13,7 +13,7 @@ Build a beautiful website (it could be your portfolio, or any type of a project 
 2. https://zen-of-programming.com/kickass-portfolio/
 3. [2019 Design Trends](https://uxplanet.org/2019-ui-and-ux-design-trends-92dfa8323225)
 
-Once you have gone through those 3 above, you can go ahead and download a starter templace: [free template](https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price) from Creative Tim, and start building your single page website! Remember: the idea/website can be silly or anything. You will be judged on the design and creativity!
+Once you have gone through those 3 above, you can go ahead and download a starter template: [free template](https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price) from Creative Tim, and start building your single page website! Remember: the idea/website can be anything. You will be judged on the design and creativity!
 
 ## The Rules Are:
 
