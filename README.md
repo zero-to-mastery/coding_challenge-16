@@ -5,13 +5,15 @@ This coding challenge is all about **design and building a portfolio project to 
 Please Use the **#coding-challenge** channel on Discord to discuss and share your work. At the end of the challenge, I will compile everyone's submitted websites on here.
 
 ## Prizes!
-This challenge is kindly sponsored by [Creative Tim](https://www.creative-tim.com/)! The top 3 entries of this challenge who will be selected by Creative Tim staff and myself will **each win the [Big Bundle](https://www.creative-tim.com/product/buy/bundle/big-bundle) which has a $3,341 value each**. Winners will be announced a few weeks after the coding challenge ends.
+This challenge is kindly sponsored by [Creative Tim](https://www.creative-tim.com/)! The top 3 entries of this challenge who will be selected by Creative Tim staff and myself will **each win the Big Bundle which has a $3,341 value each**. Winners will be announced a few weeks after the coding challenge ends.
 
 ## What is the Challenge?
+**Note: this repository will be archived, so links to these projects have been removed.**
+
 Build a beautiful website (it could be your portfolio, or any type of a project you can think of) that is single page. However, you will have to build it using modern design techniques. What does that mean? Well, you need to follow these 3 resources:
-1. https://onepagelove.com/
-2. https://zen-of-programming.com/kickass-portfolio/
-3. [2019 Design Trends](https://uxplanet.org/2019-ui-and-ux-design-trends-92dfa8323225)
+1. One Page Love
+2. Zen of Programming
+3. 2019 Design Trends
 
 Once you have gone through those 3 above, you can go ahead and download a starter template: [free template](https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price) from Creative Tim, and start building your single page website! Remember: the idea/website can be anything. You will be judged on the design and creativity!
 
